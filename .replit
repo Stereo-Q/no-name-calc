@@ -1,0 +1,2 @@
+language = "bash"
+run = "npm start --prefix ./no-name-calc"
